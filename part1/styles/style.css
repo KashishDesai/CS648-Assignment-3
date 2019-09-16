@@ -25,7 +25,7 @@ body p:first-of-type::first-letter {
 }
 
 a[href^='http']:link{
-    color: darkblue;
+    color: green;
     text-decoration: underline overline;
 }
 
